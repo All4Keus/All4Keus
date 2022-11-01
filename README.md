@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @All4Keus
 - 👀 I’m interested in progammation
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
